@@ -1,0 +1,8 @@
+/target/
+*.swp
+.DS_Store
+.classpath
+.project
+.settings/
+.idea/*
+*.iml
